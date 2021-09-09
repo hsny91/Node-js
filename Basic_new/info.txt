@@ -1,0 +1,17 @@
+/** NODE.JS **/
+
+- Platform, no UI component(no DOM), Open Source, 
+- We can use JS in the server(It works without Browser)
+- Node.js has API
+- Browser is a sendbox which can not reach O.S., node.js can reach operating system via it's library
+- Fast(online chat, zoom, online game),database query, realtime app., front-end and back-end
+- Architecture
+    ** node.js API( buffer, events, http, net, stream)
+    ** Node.js Binding
+    ** V8 Engine(js), C-ares, Libuv(library, eventloop, async), 
+
+- System: App => V8 => Event Queue => Event Loop(async)=> Worker Threads
+
+- Node is used in/ as Server: node .js has it's own built-in http server
+- Nodejs can deliver data to all internet clients
+- Frontend - Backend
