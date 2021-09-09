@@ -1,0 +1,9 @@
+1) npm init 
+2) npm install  <packet name >
+
+** uninstall : npm uninstall <packet name>
+** -g : install to global
+** install as a dev dependencies:  npm install <packet Name> --save-dev 
+** update packet: npm update
+
+** nodemon: auto refresh 
