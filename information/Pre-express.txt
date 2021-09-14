@@ -1,0 +1,22 @@
+- HTTP: HYPERTEXT TRANSFER PROTOCOL
+- TCP/UDP
+- Node.js web server
+
+********* TCP/UDP ***********
+
+- Client _______>>> data >>>> Server
+        <<<<<<<<----- data 
+
+
+- Application Layer (SSH,HTTP,FTP)
+- Transport Layer (UDP/TCP)
+- Network (IP)
+- Link (wifi, ethernet)
+- Phsical Layer (cables)
+
+-- HTTP use TCP
+
+* Transport Layer create 2-16  -- 65000 port
+* HTTP request ==> segment(Transfer Layaer) ==> Network Layer
+* UDP(User Datagram Protocol) Leightweight, 8 bytes, connectionloss, consistency, fast, unreliable (video games, reaktime comminication)
+* TCP(transmission Protocol); reliable, retransmission, congestion control, need HTTP, 

@@ -15,3 +15,7 @@
 - Node is used in/ as Server: node .js has it's own built-in http server
 - Nodejs can deliver data to all internet clients
 - Frontend - Backend
+- non-blocking I/O 
+- event loop(single-thread) instead of Multi-Threads 
+- callback functions
+- globals
