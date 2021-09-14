@@ -20,3 +20,8 @@
 * HTTP request ==> segment(Transfer Layaer) ==> Network Layer
 * UDP(User Datagram Protocol) Leightweight, 8 bytes, connectionloss, consistency, fast, unreliable (video games, reaktime comminication)
 * TCP(transmission Protocol); reliable, retransmission, congestion control, need HTTP, 
+
+******** HTTP ******
+
+- html, image, video (digital file)
+- 
