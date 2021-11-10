@@ -1,3 +1,3 @@
-Presentation Layer ===>> HTML CSS JS
-Business Logic Layer ===>>> Java c++ Ruby PHP
-Data Access Layer ==>> DBMS
+Presentation Layer ===>> HTML CSS JS     react or angular bootstrap
+Business Logic Layer ===>>> Java c++ Ruby PHP   node.js express
+Data Access Layer ==>> DBMS    mongoDB
