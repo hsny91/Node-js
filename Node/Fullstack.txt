@@ -1,0 +1,3 @@
+Presentation Layer ===>> HTML CSS JS
+Business Logic Layer ===>>> Java c++ Ruby PHP
+Data Access Layer ==>> DBMS
